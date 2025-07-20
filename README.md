@@ -1,3 +1,3 @@
-![Logo](pick/Title.png)
-![Stack](pick/Stack.png)
-![Works](pick/Works.png)
+![Logo](pics/Title.png)
+![Stack](pics/Stack.png)
+![Works](pics/Works.png)
